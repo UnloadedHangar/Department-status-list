@@ -6,6 +6,6 @@
 
 ### Among Us Modding: <code style="color : gold">Private</code>
 
-### Planet Crafter Modding: <code style="color : green">Online</code>
+### Planet Crafter Modding: <code style="color : red">Offline</code>
 
 ### *REDACTED* Modding: <code style="color : red">*REDACTED*</code>
